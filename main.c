@@ -1,4 +1,4 @@
-#include "foo.h"
+#include "sub/foo.h"
 
 int main()
 {
